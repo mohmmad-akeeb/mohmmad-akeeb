@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there 👋, I'm Mohammad Akeeb  
 
-<!--
-**mohmmad-akeeb/mohmmad-akeeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Engineering (3rd Year)  
+💻 Passionate about **Data Science & AI/ML**  
+🐍 Skilled in **Python** and **SQL**  
+📊 Currently working on: **Stock Price Prediction Project**  
+⚡ In my free time, I love exploring and experimenting with new technologies  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- **Languages:** Python, SQL  
+- **Focus Areas:** Data Science, Machine Learning, Artificial Intelligence  
+
+---
+
+## 📌 Current Project
+- [Stock Price Prediction](#) *(personal project — predicting market trends using ML)*  
+
+---
+
+## 🌱 Goals
+- Building a portfolio to land roles in **Data Science & AI/ML**  
+- Contributing to open-source and real-world projects  
+
+---
+
+## 📫 Connect with Me
+- [LinkedIn](#)  
+- [Email](#)  
+
+---
+
+⭐️ *“Code, Learn, and Keep Experimenting!”*  
