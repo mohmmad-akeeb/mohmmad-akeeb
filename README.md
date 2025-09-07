@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Mohammad Akeeb  
 
 🎓 B.Tech Computer Science Engineering (3rd Year)  
-💻 Passionate about **Data Science & AI/ML**  
+💻 Passionate about **Data Science, AI/ML & Cloud Technologies**  
 🐍 Skilled in **Python** and **SQL**  
-📊 Currently working on: **Stock Price Prediction Project**  
+📊 :chart_with_upwards_trend:Currently exploring **Big Data, Cloud, and Advanced ML techniques**
 ⚡ In my free time, I love exploring and experimenting with new technologies  
 
 ---
