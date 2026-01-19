@@ -4,7 +4,7 @@
 
 ---
 
-🎓 B.Tech Computer Science Engineering (3rd Year)  
+🎓 B.Tech Computer Science Engineering (4rd Year)  
 💻 Passionate about **Data Science, AI/ML & Cloud Technologies**  
 🐍 Skilled in **Python** and **SQL**  
 :chart_with_upwards_trend: Currently exploring **Big Data, Cloud, and Advanced ML techniques**
